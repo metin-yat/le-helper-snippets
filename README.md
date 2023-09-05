@@ -5,3 +5,7 @@ I am a newbie so I would more than love to take recommendation about how can I w
 # convertAll.py & glbToPly.py
 glbToPly.py : Contains functions that can convert .glb mesh objects to .ply point clouds files. And some extra functions.
 convertAll.py : Basic usage of glbToPly where converting all the .glb files in specific folder to .ply files.  
+
+# pcdAugmentation.py
+Point Cloud Augmentation. Just resizing xyz. I do not recommend if you have a big point clouds.
+e.g. I had 37 pcd before and I got 4736 with 11gb size.
