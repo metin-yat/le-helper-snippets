@@ -11,7 +11,10 @@ import numpy as np
 # saveAsPly: takes your point cloud and save it as FILENAME.ply
                 # it will work nested-like with glbToPcd
 
+# convertAll: you can see the example of it  in convertAll.py
 # visualize_mesh: names say it all. But takes pointclouds too.
+# get_quartiles: Idea of this function is help to optimizing the number_of_points
+#                but surface area is not a good param to decide number_of_points I think.
 
 
 def glbToPcd(root:str, fn:str,
