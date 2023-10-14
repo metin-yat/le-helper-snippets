@@ -1,5 +1,5 @@
 # mgis.py
-This snippet may help you to work with point clouds where you are working on a mostly geospatial features. That was the case for me at least.
+This snippet may help you to work with point clouds where you are working on a mostly geospatial features.
 As a newbie, I would more than love to take recommendation about how can I write better codes and also what can I add to this code script.
 
 # convertAll.py & glbToPly.py
